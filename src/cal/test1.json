@@ -1,0 +1,9 @@
+{
+	"id":"Test 1",
+	"description":"Permier test",
+	"montant":100000,
+	"nombreAnne":25,
+	"frenquencdRemboursement":12,
+	"tauxInteret":6,
+	"frequencdComposition":2
+}
